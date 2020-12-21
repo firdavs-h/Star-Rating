@@ -11,7 +11,7 @@ Basic Star-Rating component for Vue project.
 ## Project setup
 ```
 Stars are unicode character (&#9733), does not require any setup in existing vue project.
-If stars switched to font icons (like font-awesome), import of subject font will required.
+If stars switched to font icons (like font-awesome), import of subject font will be required.
 ```
 
 ### Component code
