@@ -30,7 +30,7 @@
       @mouseleave="mouseOver = 0"
       @click="AddEditRate(5)"
       >&#9733;</span>
-    <p>{{ rating > 0 ? `You rated ${rating}` : "Rate?" }}</p>
+    <p>{{ rating > 0 ? "You rated: "+rating : "Rate?" }}</p>
   </div>
 </template>
 
