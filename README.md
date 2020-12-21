@@ -2,11 +2,11 @@
 
 Basic Star-Rating component for Vue project.
 ## Look (adjustable)
-![Rating](/src/assets/Capture1.png)
+![Rating](/src/assets/Capture1.PNG)
 
-![Rating](/src/assets/Capture2.png)
+![Rating](/src/assets/Capture2.PNG)
 
-![Rating](/src/assets/Capture.png)
+![Rating](/src/assets/Capture.PNG)
 
 ## Project setup
 ```
